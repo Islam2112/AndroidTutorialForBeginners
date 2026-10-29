@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">لعبة الثعبان</string>
+    <string name="tap_to_start">اضغط للبدء\nاسحب لتحريك الثعبان</string>
+    <string name="game_over">انتهت اللعبة!</string>
+    <string name="tap_to_restart">اضغط للعب مرة أخرى</string>
+    <string name="score">النقاط: %d</string>
+    <string name="best">الأفضل: %d</string>
+</resources>
